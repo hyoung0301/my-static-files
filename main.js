@@ -5,7 +5,7 @@ const body = document.body;
     const link = document.createElement('link');
     link.rel = 'stylesheet';
     link.type = 'text/css';
-    link.href = 'https://hyoung0301.github.io/my-static-files/style.css';
+    link.href = 'https://hyoung0301.github.io/my-static-files/blob/main/style.css';
     head.appendChild(link);
 })();
 
